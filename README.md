@@ -1,4 +1,4 @@
-# README for PCA and Clustering Analysis of NCI60 Data
+# PCA and Clustering Analysis of NCI60 Data
 
 ## Overview
 
